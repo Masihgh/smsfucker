@@ -1,19 +1,13 @@
 # sms fucker
 Python tool For Fucking spamer sms
+Use This only for fun!
 
-<img src="https://img.shields.io/badge/python-%203.7-blue"> <img src="https://img.shields.io/github/license/masihgh/smsfucker?color=red"> <img src="https://img.shields.io/badge/Version-1.0-blueviolet"> <img src="https://img.shields.io/github/forks/masihgh/smsfucker?style=social">
 
-# TelegramBotPHP
-[![API](https://img.shields.io/badge/Telegram%20Bot%20API-November%2017%2C%202017-36ade1.svg)](https://core.telegram.org/bots/api)
-![PHP](https://img.shields.io/badge/php-%3E%3D5.3-8892bf.svg)
-![CURL](https://img.shields.io/badge/cURL-required-green.svg)
+[![code](https://img.shields.io/badge/python-%203.7-blue)
+[![License](https://img.shields.io/github/license/masihgh/smsfucker?color=red)
+[![Version](https://img.shields.io/badge/Version-1.0-blueviolet)
+[![forks](https://img.shields.io/github/forks/masihgh/smsfucker?style=social)
 
-[![Total Downloads](https://poser.pugx.org/eleirbag89/telegrambotphp/downloads)](https://packagist.org/packages/eleirbag89/telegrambotphp)
-[![License](https://poser.pugx.org/eleirbag89/telegrambotphp/license)](https://packagist.org/packages/eleirbag89/telegrambotphp)
-[![StyleCI](https://styleci.io/repos/38492095/shield?branch=master)](https://styleci.io/repos/38492095)
-
-A very simple PHP [Telegram Bot API](https://core.telegram.org/bots).    
-Compliant with the November 17, 2017 Telegram Bot API update.
 
 Requirements
 ---------
