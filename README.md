@@ -48,10 +48,11 @@ Snap.taxi
 urlsend = "https://app.snapp.taxi/api/api-passenger-oauth/v2/otp"
 mydata = {"cellphone":contry+phone}
 ```
-Telegram.org
+
+Snap.taxt Download
 ```python
-urlsend = "https://app.snapp.taxi/api/api-passenger-oauth/v2/otp"
-mydata = {"cellphone":contry+phone}
+urlsend = "https://api.snapp.ir/api/v1/sms/link"
+mydata = {"phone":contry+phone}
 ```
 License
 ------------
