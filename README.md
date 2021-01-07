@@ -43,12 +43,12 @@ requests.post(urlsend,data=mydata,proxies=proxies)
 ```
 
 ### Otp List:
-##Snap.taxi
+## Snap.taxi
 ```python
 urlsend = "https://app.snapp.taxi/api/api-passenger-oauth/v2/otp"
 mydata = {"cellphone":contry+phone}
 ```
-##Telegram.org
+## Telegram.org
 ```python
 urlsend = "https://app.snapp.taxi/api/api-passenger-oauth/v2/otp"
 mydata = {"cellphone":contry+phone}
