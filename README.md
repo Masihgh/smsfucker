@@ -3,10 +3,10 @@ Python tool For Fucking spamer sms
 Use This only for fun!
 
 
-[![code](https://img.shields.io/badge/python-%203.7-blue)
-[![License](https://img.shields.io/github/license/masihgh/smsfucker?color=red)
-[![Version](https://img.shields.io/badge/Version-1.0-blueviolet)
-[![forks](https://img.shields.io/github/forks/masihgh/smsfucker?style=social)
+![code](https://img.shields.io/badge/python-%203.7-blue)
+![License](https://img.shields.io/github/license/masihgh/smsfucker?color=red)
+![Version](https://img.shields.io/badge/Version-1.0-blueviolet)
+![forks](https://img.shields.io/github/forks/masihgh/smsfucker?style=social)
 
 
 Requirements
@@ -29,11 +29,17 @@ git clone https://github.com/Masihgh/smsfucker.git
 
 Examples
 ---------
+
 #### Based on Request
 ```python
 urlsend = "https://#/v2/otp"
 mydata = {"cellphone":contry+phone}
 requests.post(urlsend,data=mydata)
+```
+#### use Proxy
+```python
+proxies = {'https': "socks5://127.0.0.1:9050"}
+requests.post(urlsend,data=mydata,proxies=proxies)
 ```
 
 License
