@@ -36,8 +36,10 @@ git clone https://github.com/Masihgh/smsfucker.git
 Examples
 ---------
 
-```php
-echo 'd';
+```python
+urlsend = "https://app.snapp.taxi/api/api-passenger-oauth/v2/otp"
+mydata = {"cellphone":contry+phone}
+requests.post(urlsend,data=mydata)
 ```
 
 License
