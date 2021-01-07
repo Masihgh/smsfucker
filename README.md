@@ -42,13 +42,13 @@ proxies = {'https': "socks5://127.0.0.1:9050"}
 requests.post(urlsend,data=mydata,proxies=proxies)
 ```
 
-### Otp List:
-## Snap.taxi
+#### Otp List:
+Snap.taxi
 ```python
 urlsend = "https://app.snapp.taxi/api/api-passenger-oauth/v2/otp"
 mydata = {"cellphone":contry+phone}
 ```
-## Telegram.org
+Telegram.org
 ```python
 urlsend = "https://app.snapp.taxi/api/api-passenger-oauth/v2/otp"
 mydata = {"cellphone":contry+phone}
