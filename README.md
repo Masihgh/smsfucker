@@ -26,27 +26,11 @@ Requirements
 Download
 ---------
 
-#### Using Composer
-
-From your project directory, run:
-```
-composer require eleirbag89/telegrambotphp
-```
-or
-```
-php composer.phar require eleirbag89/telegrambotphp
-```
-Note: If you don't have Composer you can download it [HERE](https://getcomposer.org/download/).
-
-#### Using release archives
-
-https://github.com/Eleirbag89/TelegramBotPHP/releases
-
 #### Using Git
 
 From a project directory, run:
 ```
-git clone https://github.com/Eleirbag89/TelegramBotPHP.git
+git clone https://github.com/Masihgh/smsfucker.git
 ```
 
 Examples
@@ -57,22 +41,10 @@ pip install colorama
 pip install requests
 ```
 
-
-
 License
 ------------
 
 This open-source software is distributed under the MIT License. See LICENSE.md
-
-Contributing
-------------
-
-All kinds of contributions are welcome - code, tests, documentation, bug reports, new features, etc...
-
-* Send feedbacks.
-* Submit bug reports.
-* Write/Edit the documents.
-* Fix bugs or add new features.
 
 Contact me
 ------------
@@ -83,4 +55,5 @@ Support me
 ------------
 
 You can support me using via bitcoin
+</br>
 btc-wallet-Adress: 1xYzCDGGgEhWAvW4aEqP6DVspnEZ2pHWK
