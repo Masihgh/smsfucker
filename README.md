@@ -36,9 +36,8 @@ git clone https://github.com/Masihgh/smsfucker.git
 Examples
 ---------
 
-```python
-pip install colorama
-pip install requests
+```php
+echo 'd';
 ```
 
 License
@@ -56,4 +55,6 @@ Support me
 
 You can support me using via bitcoin
 </br>
+```
 btc-wallet-Adress: 1xYzCDGGgEhWAvW4aEqP6DVspnEZ2pHWK
+```
